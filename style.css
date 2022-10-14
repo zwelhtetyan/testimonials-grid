@@ -40,6 +40,7 @@ body {
    background-repeat: no-repeat;
    background-size: 100px;
    background-position: right 100px top 20px;
+   color: var(--dark_blackish_blue);
 }
 
 .card__header {
